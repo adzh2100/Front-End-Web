@@ -9,3 +9,5 @@ function person()
 
 		let stoleSalaryInfo = person();
 		console.log(stoleSalaryInfo()); //принтира 1000
+
+
